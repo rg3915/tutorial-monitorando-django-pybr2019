@@ -8,7 +8,7 @@ import shutil
 import datetime
 
 # substitua pelo caminho completo em sua máquina
-TUTORIAL_PATH = "/home/rg3915/gh/pybr19/monitoramento-django"
+TUTORIAL_PATH = "/home/rg3915/gh/pybr19/tutorial-monitorando-django-pybr2019/"
 
 logging.basicConfig(filename=TUTORIAL_PATH + "logfile_generate_files.log",
                     format="%(asctime)s %(message)s",
